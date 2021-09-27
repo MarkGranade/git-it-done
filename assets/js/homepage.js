@@ -9,5 +9,5 @@ var getUserRepos = function(user) {
         });
     });
 };
-console.log();
+
 getUserRepos('MarkGranade');
